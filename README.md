@@ -1,6 +1,6 @@
 # Pic2Product-Image-Based-Product-Search-Scraper
 A Python-based tool that takes an input image, identifies the product, and fetches online shopping links, prices, reviews, and descriptions from e-commerce sites. The results are stored in a CSV for easy reference.
-## 🔍 Features
+## Features
 
 - Upload an image (JPEG/PNG).
 - Detect product identity using OCR, image captioning, and search keywords.
@@ -13,7 +13,7 @@ A Python-based tool that takes an input image, identifies the product, and fetch
 - Export structured data to a CSV file.
 
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - OpenCV
